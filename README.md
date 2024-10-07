@@ -7,6 +7,7 @@
 - 🐦 Flutter
 - ☕ Java
 - 🗃️ MySQL
+- 💎 Dart
 
 ## Contato
 📧 Se quiser entrar em contato comigo, envie um e-mail para rodrigvues@gmail.com .
